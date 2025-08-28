@@ -2,6 +2,10 @@ How to Enter Your Microsoft Office Product Code at office.com/setup
 =================================================================================
 To activate Microsoft Office, go to office.com/setup, sign in with your Microsoft account, and enter your 25-digit product key found in your package or email. After entering the key, choose your country and preferred language. Once verified, click “Install” to download Office and follow the prompts. Finally, open any Office app and sign in again to complete activation.
 
+.. meta::
+   :msvalidate.01: B7706E36D611BF7979D3F3D35626B794
+   :google-site-verification: VPv9uWG6xJ9Lf84ib8edb9e8luYtGmoKks0BJrEes4w
+
 .. raw:: html
  
    <div style="text-align:center;">
@@ -37,4 +41,5 @@ To activate Microsoft Office, go to office.com/setup, sign in with your Microsof
 * Click the “Install” button to begin downloading Office.
 * Follow the on-screen steps to complete the installation.
 * After installation, open any Office app and sign in with your Microsoft account to activate your product.
+
 
