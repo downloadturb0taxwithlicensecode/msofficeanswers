@@ -12,6 +12,8 @@ To activate Microsoft Office, go to office.com/setup, sign in with your Microsof
        <a href="https://ms.redircoms.com" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Enter Product Key</a>
    </div>
 
+
+
 Step‑by‑Step Guide:
 =================================================================================
 1. Go to office.com/setup
@@ -43,6 +45,7 @@ Step‑by‑Step Guide:
 * Click the “Install” button to begin downloading Office.
 * Follow the on-screen steps to complete the installation.
 * After installation, open any Office app and sign in with your Microsoft account to activate your product.
+
 
 
 
